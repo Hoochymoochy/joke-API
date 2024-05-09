@@ -1,0 +1,50 @@
+body {
+    background-color: #7C8363;
+    color: #D9DAD9;
+    margin: 0;
+}
+
+.header-title {
+    display: block;
+    position: absolute;
+    font-size: 1000%;
+    background-color: #EDF4F2;
+    color: #4C8055;
+    margin: 0;
+    border-left: 1vw #31473a solid;
+    border-bottom: 1vw #31473a solid;
+    right: 0;
+    top: 0;
+}
+
+.categoryHolder {
+    display: block;
+    padding-left: 10%;
+    padding-right: 25%;
+}
+
+.header-title p {
+    margin: 0;
+}
+
+.categoryclass {
+    text-align: center;
+    margin-bottom: 8%;
+    font-size: 150%;
+    border-width: 5px;
+    border-color: #31473a;
+    border-style: solid;
+    width: 70%;
+}
+
+.quote{
+    font-size: large;
+    margin-left: 25%;
+}
+
+.dm-serif-display-regular {
+    font-family: "DM Serif Display", serif;
+    font-weight: 550;
+    font-style: normal;
+}
+
